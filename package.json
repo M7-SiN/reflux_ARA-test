@@ -1,9 +1,9 @@
 {
-  "name": "reflux",
+  "name": "Reflux_Arabic",
   "description": "Reflux is a Stremio addon that allows users to access content of multiples streaming websites, providing a quick and easy way to watch multiples content with a single click.",
   "author": "MrSev7en <mrsev7en.official@gmail.com>",
   "keywords": [
-    "reflux",
+    "Reflux_Arabic",
     "stremio",
     "addon",
     "node",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "private": true,
   "stremio": {
-    "id": "app.nightfruit-studios.reflux",
+    "id": "app.M7-SiN-studios.Reflux_Arabic",
     "name": "Reflux",
     "description": "Reflux permite você acessar o catálogo de vários sites de streaming, proporcionando uma maneira rápida e fácil de assistir a todo o conteúdo disponível."
   },
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nightfruit/reflux"
+    "url": "https://github.com/M7-SiN/Reflux_Arabic"
   },
   "scripts": {
     "postinstall": "npx prisma generate",

@@ -1,5 +1,5 @@
 import { ProviderService } from '@/modules/provider/provider.service';
-import { RcProvider } from '@/providers/rc/rc.provider';
+import { Anime3rbProvider  } from '@/providers/anime3rb/anime3rb.provider';
 import { Module } from '@nestjs/common';
 
 @Module({
@@ -8,4 +8,4 @@ import { Module } from '@nestjs/common';
 })
 export class ProviderModule {}
 
-export const Providers = [RcProvider];
+export const Providers = [Anime3rbProvider ];
